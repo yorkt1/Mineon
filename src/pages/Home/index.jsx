@@ -68,7 +68,7 @@ const Home = () => {
         ))}
       </ul>
 
-      <h2>Produtos em Destaque</h2>
+      <h2>Produtos em <Destaques></Destaques></h2>
       <div
         style={{
           display: 'grid',
